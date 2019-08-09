@@ -39,6 +39,6 @@
     "documentation": "^12.0.3",
     "istanbul": "^0.4.5",
     "mocha": "^6.2.0",
-    "mochify": "^6.3.0"
+    "mochify": "6.4.0"
   }
 }
